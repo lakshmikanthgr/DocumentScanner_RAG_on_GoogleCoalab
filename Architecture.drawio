@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-07-12T04:54:34.658Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="PjpvS6HTFtIOA1CmFo81" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-12T04:56:46.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="QG2ctu0x-SeWF45gjDDd" version="24.6.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1323" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ArSv4i5Hj_Sf0OiJEY_E-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="60" y="-570" width="1100" height="1020" as="geometry" />
+          <mxGeometry x="60" y="-600" width="1100" height="1050" as="geometry" />
         </mxCell>
         <object label="Vector Database" id="ArSv4i5Hj_Sf0OiJEY_E-3">
           <mxCell style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
@@ -115,6 +115,9 @@
         </mxCell>
         <mxCell id="ArSv4i5Hj_Sf0OiJEY_E-85" value="Retrieval" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArSv4i5Hj_Sf0OiJEY_E-102" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-530" width="570" height="940" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
